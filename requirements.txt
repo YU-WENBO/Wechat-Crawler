@@ -1,0 +1,12 @@
+itchat
+numpy
+pandas
+re
+jieba
+os
+matplotlib.pyplot
+wordcloud
+PIL.Image
+sys
+shutil
+math
